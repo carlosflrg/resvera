@@ -64,25 +64,16 @@
   }
 }
 
-@media (max-width: 767px) {
-  .fullscreen-bg {
-    background: url('../videos/bkg-video.jpg') center center / cover no-repeat;
-  }
-
-  .fullscreen-bg__video {
-    display: none;
-  }
-}
 
 
 
 .lds-ellipsis {
-  display: inline-block;
+  display: block;
   position: relative;
   width: 80px;
   height: 80px;
-  left: 40%;
-  right: 0%;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 .lds-ellipsis div {
