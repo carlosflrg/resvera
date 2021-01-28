@@ -342,7 +342,7 @@ img {
   -webkit-background-size: cover;
      -moz-background-size: cover;
           background-size: cover;
-  background-color: #8c9a65;
+  background-color: #fff;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -1368,7 +1368,7 @@ margin-top: 1rem;
   -webkit-background-size: cover;
      -moz-background-size: cover;
           background-size: cover;
-  background-color: #8c9a65;
+  background-color: #fff;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -2570,16 +2570,16 @@ margin-top: 1rem;
 }
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-  background-color: #8c9a65;
+  background-color: #fff;
 }
 
 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
-  background-color: #8c9a65;
+  background-color: #fff;
 }
 
 .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
 .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar {
-  background-color: #8c9a65;
+  background-color: #fff;
 }
 
 /* ------------------------------------------------*/
