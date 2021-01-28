@@ -64,6 +64,15 @@
   }
 }
 
+@media (max-width: 767px) {
+  .fullscreen-bg {
+    background: url('../videos/bkg-video.jpg') center center / cover no-repeat;
+  }
+
+  .fullscreen-bg__video {
+    display: none;
+  }
+}
 
 
 
