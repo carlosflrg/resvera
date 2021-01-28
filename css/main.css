@@ -241,13 +241,13 @@ input::-moz-focus-inner {
 
 ::-moz-selection {
   background-color: #ffffff;
-  color: #f95b5b;
+  color: #DD8797;
   text-shadow: none;
 }
 
 ::selection {
   background-color: #ffffff;
-  color: #f95b5b;
+  color: #DD8797;
   text-shadow: none;
 }
 
@@ -270,7 +270,7 @@ body {
   overflow-x: hidden !important;
   font: normal 400 1.6rem/1.7 "Montserrat", sans-serif;
   color: #444444;
-  background-color: #f95b5b;
+  background-color: #DD8797;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -389,7 +389,7 @@ h1 span {
   font-size: 7.8rem;
   line-height: .6;
   font-family: "Quentin", italic;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 h1.light {
@@ -481,7 +481,7 @@ h2 span {
   font-size: 5rem;
   line-height: .6;
   font-family: "Quentin", italic;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 @media only screen and (min-width: 768px) {
@@ -533,7 +533,7 @@ h4 small {
   font-style: italic;
   font-size: 3.2rem;
   font-family: "Quentin", italic;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 h4.light {
@@ -590,7 +590,7 @@ blockquote p span {
   font-family: "Quentin", italic;
   font-size: 3.8rem;
   line-height: .6;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 blockquote cite {
@@ -619,7 +619,7 @@ blockquote cite span {
   font-family: "Quentin", italic;
   font-size: 5rem;
   line-height: .6;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 @media only screen and (min-width: 768px) {
@@ -909,7 +909,7 @@ blockquote cite span {
           transform: translateX(-50%);
   width: 100%;
   height: 2px;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
@@ -939,7 +939,7 @@ blockquote cite span {
           transform: translateX(-50%);
   width: 100%;
   height: 2px;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
@@ -1046,7 +1046,7 @@ form .inputs-description {
 }
 
 .form-dark input:focus, .form-dark textarea:focus {
-  border-bottom: 1px solid #f95b5b;
+  border-bottom: 1px solid #DD8797;
 }
 
 .form-dark .inputs-description {
@@ -1077,7 +1077,7 @@ form .inputs-description {
 
 .reply-group__title {
   font: italic 400 4.6rem/1 "Quentin", italic;
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 .reply-group__text {
@@ -1381,7 +1381,7 @@ margin-top: 1rem;
 
 .main-section__aside {
   display: none;
-  background-color: #f95b5b;
+  background-color: #DD8797;
 }
 
 .main-section__aside.mobile-visible {
@@ -1492,7 +1492,7 @@ margin-top: 1rem;
   right: 0;
   width: 0%;
   height: 100%;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   z-index: 10;
   overflow-y: auto;
   overflow-x: hidden;
@@ -1668,7 +1668,7 @@ margin-top: 1rem;
 }
 
 .no-touch .socials.socials-icons ul li:hover a {
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 .socials.socials-text ul li {
@@ -1697,7 +1697,7 @@ margin-top: 1rem;
           transform: translateX(-50%);
   width: 0%;
   height: 1px;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
   -moz-transition: .3s all ease-in-out;
@@ -1921,7 +1921,7 @@ margin-top: 1rem;
   left: 0;
   width: 100%;
   height: 40px;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   z-index: 10;
 }
 
@@ -1960,7 +1960,7 @@ margin-top: 1rem;
   line-height: 40px;
   font-size: 2.4rem;
   text-align: center;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   color: #ffffff;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -2189,7 +2189,7 @@ margin-top: 1rem;
   width: 100%;
   height: auto;
   overflow-y: auto;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   z-index: 3;
   -webkit-transform: translateX(0%);
      -moz-transform: translateX(0%);
@@ -2811,7 +2811,7 @@ margin-top: 1rem;
 }
 
 .no-touch .team__socials li:hover a {
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -2856,7 +2856,7 @@ margin-top: 1rem;
 }
 
 .no-touch .contact-data__item p:hover a {
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 .contact-data__item ul {
@@ -2874,7 +2874,7 @@ margin-top: 1rem;
 }
 
 .no-touch .contact-data__item ul li:hover a {
-  color: #f95b5b;
+  color: #DD8797;
 }
 
 /* ------------------------------------------------*/
@@ -2946,7 +2946,7 @@ margin-top: 1rem;
   text-align: center;
   overflow: hidden;
   cursor: pointer;
-  background-color: #f95b5b;
+  background-color: #DD8797;
   -webkit-transition: all .5s ease-in-out;
   -o-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
@@ -3132,7 +3132,7 @@ margin-top: 1rem;
   display: block;
   font: italic 400 3.2rem/1 "Quentin", italic;
   margin-bottom: .4rem;
-  color: #f95b5b;
+  color: #DD8797;
   letter-spacing: normal;
   -webkit-transform: translateY(0);
      -moz-transform: translateY(0);
@@ -3179,7 +3179,7 @@ margin-top: 1rem;
 
 .pswp__button--close {
   position: relative;
-  background-color: #f95b5b;
+  background-color: #DD8797;
 }
 
 .pswp__button--close:active {
