@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link href="style.css" rel="stylesheet">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</head>
+<!------ Include the above in your HEAD tag ---------->
+<body>
+
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+
+    <!-- Icon -->
+    <div class="fadeIn first">
+      <img src="/img/resvera-logo-loader.svg" class="logo" id="icon" alt="User Icon" />
+    </div>
+
+    <!-- Login Form -->
+    <form class="col-12" id="form_id" method="post" name="myform">
+      <input type="username" class="form-control field" name="username" id="username" class="fadeIn second" placeholder="User">
+      <input type="password" class="form-control field" name="password" id="password" class="fadeIn third" name="pword" placeholder="Password">
+      
+      <button  class="button btn fadeIn text-white fourth" value="Login" id="submit" onclick="validate()">Login</button>
+    </form>
+
+  
+
+  </div>
+</div>
+<script src="login.js"></script>
+</body>
+</html>
